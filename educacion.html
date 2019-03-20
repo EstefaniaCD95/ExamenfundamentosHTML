@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <svg>
+      <image xlink:href="Icon.svg" height="750px">
+    </svg>
+    <h1>Curriculum Vitae</h1>
+    <h2>Datos Personales</h2>
+    <ul>
+      <li><h3>Nombres:</h3>Lady Estefanía</li>
+      <li><h3>Apellidos:</h3>Calderón Díaz</li>
+      <li><h3>Fecha de nacimiento:</h3>14 de octubre de 1995</li>
+      <li><h3>Lugar de nacimiento:</h3>Bogotá D.C-Colombia</li>
+    </ul>
+    <h2>Menú</h2>
+    <ol>
+      <li><h3><a href="index.html">Inicio</a></h3></li>
+      <li><h3><a href="educacion.html">Educación</a></h3></li>
+      <li><h3><a href="experiencia.html">Experiencia</a></h3></li>
+    </ol>
+    <h2>Educación</h2>
+    <table border="1" cellpadding="10", cellspacing="0">
+      <tr>
+        <th>Año</th>
+        <th>Institución</th>
+        <th>Lugar</th>
+        <th>¿Culminó?</th>
+      </tr>
+      <tr>
+        <td>2012</td>
+        <td>Colegio del Santo Ángel</td>
+        <td>Bogotá</td>
+        <td>Sí</td>
+      </tr>
+      <tr>
+        <td>2019</td>
+        <td>Universidad de San Buenaventura</td>
+        <td>Bogotá</td>
+        <td>Sí</td>
+      </tr>
+      <tr>
+        <td>2019</td>
+        <td>Next University</td>
+        <td>Bogotá-Virtual</td>
+        <td>En curso</td>
+      </tr>
+    </table>
+    <h3>Agregar estudios</h3>
+    <form autocomplete="on" name="addestudios">
+    <p>
+      <label for="Año"><strong>Año:</strong></label>
+      <select>
+        <option>2019</option>
+        <option>2018</option>
+        <option>2017</option>
+        <option>2016</option>
+      </select>
+    </p>
+    <p>
+      <label for="institucion"><strong>Institución:</strong></label>
+      <input type="text" name="ins" placeholder="Ej: Universidad Nacional" required>
+    </p>
+    <p>
+      <label for="lugar"><strong>Lugar:</strong></label>
+      <textarea name="place" rows="2" cols="50" placeholder="Ej: Bogotá D.C." required></textarea>
+    </p>
+    <p>
+      <input type="button" value="Enviar">
+    </p>
+    <br>
+  </body>
+  <footer>
+    <p><strong>Correo electrónico:</strong>estefaniacalderondiaz@gmail.com</p>
+    <p><strong>Teléfono:</strong>+573187706283</p>
+    <p><strong>Dirección:</strong>Carrera 13 #155-51</p>
+  </footer>
+</html>

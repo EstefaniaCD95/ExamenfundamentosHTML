@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m113.097308,83.052587l1.06839,-6.672474l-12.572779,-1.161182c-31.831475,-2.939721 -63.033476,-15.405402 -80.406459,-32.123617c-3.116871,-2.9994 -5.203062,-5.889185 -4.63596,-6.421755c1.300819,-1.221753 32.998325,-10.948498 35.678879,-10.948498c1.093493,0 3.720284,1.788883 5.837283,3.975302c9.028754,9.324642 32.394933,19.050305 48.846353,20.331072l6.669894,0.519288l-1.14681,-5.766646c-1.190529,-5.98654 -0.855706,-7.243631 1.929231,-7.243631c1.780798,0 54.941499,22.98943 56.461209,24.41677c1.152882,1.082752 -6.158889,5.099576 -32.337722,17.765087c-11.37142,5.501503 -21.976809,10.002763 -23.567587,10.002763c-2.546125,0 -2.764415,-0.798615 -1.823927,-6.672474l0.000005,-0.000006z" fill="#c90000" id="svg_3" stroke="#0a0303" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <text fill="#000000" font-family="Serif" font-size="22" font-style="italic" font-weight="bold" id="svg_6" opacity="0.75" stroke="#000000" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="0" style="cursor: move;" text-anchor="middle" transform="rotate(13.863 90.1406 58.5)" x="90.601563" xml:space="preserve" y="66">E.C.D</text>
+ </g>
+</svg>
